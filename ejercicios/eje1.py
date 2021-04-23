@@ -1,5 +1,4 @@
-# Si importamos la libreria math, podemos calcular mejor el area del circulo
+a = int(input('Ingrese un numero entero: '))
+b = int(input('Ingrese otro numero entero: '))
 
-r = float(input('Ingrese radio de circulo: '))
-
-print(f'El area del circulo es {3.1415 * r**2:.2f} aproximadamente')
+print('Hola Mundo') if a > b else '' # Esto es un "if inline"

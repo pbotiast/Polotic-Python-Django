@@ -1,7 +1,7 @@
-from datetime import datetime as dt
+lista1 = [12, 15, 32, 42, 55, 75, 122, 132, 150, 180, 200]
 
-now = dt.now()
-
-print(f'Hora actual: {now.hour}:{now.minute}:{now.second}')
-
-print(f'En dos horas: {now.hour + 2}:{now.minute}:{now.second}')
+for e in lista1:
+    if e > 150:
+        break
+    elif e % 5 == 0:
+        print(e, end=' ')

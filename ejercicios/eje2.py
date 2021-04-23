@@ -1,5 +1,7 @@
-# Se puede mejorar el codigo si usamos try except
+count = 0
 
-n = int(input('Ingrese un numero entero: '))
-
-print(f'El resultado de hacer n + n*n + n*n*n es: {n + n*n + n*n*n}')
+while count < 5: # Tambien se puede usar un for aca
+    number = float(input('Ingrese numero decimal: '))
+    while number % 1 == 0:
+        number = float(input('No es decimal! Ingrese numero decimal: '))
+    count += 1

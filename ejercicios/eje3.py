@@ -1,12 +1,10 @@
-# Hay dos formas, la que describo en el codigo y la otra usando es len y count (opcionalmente, tambien lower)
+# Un plus seria que valide que sea entero
 
-word = input('Ingrese algo: ')
-cont_w = 0
-cont_a = 0
+numbers = []
 
-for w in word:
-    cont_w += 1
-    if w in ['a', 'A']:
-        cont_a += 1
+while len(numbers) < 5:
+    n = int(input('Ingrese numero entero: '))
+    numbers.append(n)
 
-print (f'En la entrada "{word}", hay {cont_w} caracteres y {cont_a} "a" y/o "A"')
+for number in numbers:
+    print(number, end=' ')
