@@ -1,4 +1,11 @@
-a = int(input('Ingrese un numero entero: '))
-b = int(input('Ingrese otro numero entero: '))
+class Rectangulo():
+    def __init__(self, longitud, ancho):
+        self.longitud = longitud
+        self.ancho = ancho
 
-print('Hola Mundo') if a > b else '' # Esto es un "if inline"
+    def area(self):
+        return self.longitud * self.ancho
+
+rect = Rectangulo(2, 4)
+print(f'Longitud {rect.longitud} y Ancho {rect.ancho}')
+print(f'Area: {rect.area()}')

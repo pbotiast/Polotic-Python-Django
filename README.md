@@ -1,24 +1,16 @@
 # Polotic-Python-Django
 🐍 Repositorio para subir prácticas hechas en cada clase
 
-⏮ [Clase 02](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-02) | [Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | [Clase 04](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-04) ⏭
+⏮ [Clase 03](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-03) | [Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | [Clase 05](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-05) ⏭
 
-## Clase 03
-Teoría: [Diapositivas de Clase 03](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/clase-2-teoria.pdf)
+## Clase 04
+Teoría: [Diapositivas de Clase 04](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-04/clase-4-teoria.pdf)
 
 ## Ejercicios
-1. **Escribe un programa Python que imprima “Hola Mundo”, si a es mayor que b.**
+1. **Escribe una clase de Python llamada Rectangulo que se define por una longitud y un ancho y un método que calculará el área de un rectángulo.**
 
-[👉🏽 Ver ejercicio 1](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-03/ejercicios/eje1.py)
+[👉🏽 Ver ejercicio 1](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-04/ejercicios/eje1.py)
 
-2. **Escribe un programa Python que acepte 5 números decimales del usuario.**
+2. **Crea una clase Minibus que herede de la clase Vehiculo. Debes poder tener un método capacidad() que defina por defecto la capacidad de 6 asientos. Luego crea una clase Pasajero que puedas ir agregando a una instancia de Minibus. Esa instancia no deberá permitir mas de 50 pasajeros únicos (no se permiten pasajeros repetidos).**
 
-[👉🏽 Ver ejercicio 2](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-03/ejercicios/eje2.py)
-
-3. **Escribe un programa en Python que reciba 5 números enteros del usuario y los guarde en una lista. Luego recorrer la lista y mostrar los números por pantalla.**
-
-[👉🏽 Ver ejercicio 3](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-03/ejercicios/eje3.py)
-
-4. **Dada una lista (`lista1 = [12, 15, 32, 42, 55, 75, 122, 132, 150, 180, 200]`), iterarla y mostrar números divisibles por cinco, y si encuentra un número mayor que 150, detenga la iteración del bucle.**
-
-[👉🏽 Ver ejercicio 4](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-03/ejercicios/eje4.py)
+[👉🏽 Ver ejercicio 2](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-04/ejercicios/eje2.py)
