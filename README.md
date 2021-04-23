@@ -1,10 +1,10 @@
 # Polotic-Python-Django
 🐍 Repositorio para subir prácticas hechas en cada clase
 
-[Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | Clase 02 ⏭
+[Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | [Clase 02 ⏭](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-02)
 
 ## Clase 01
-Teoría: [Diapositivas de Clase 01]()
+Teoría: [Diapositivas de Clase 01](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-01/clase-1-teoria.pdf)
 
 ## Ejercicios
 1) **Comencemos instalando Python en nuestra computadora y probando mediante `python --version` si lo hemos hecho bien.**
