@@ -12,7 +12,10 @@ class Minibus(Vehiculo):
 
     def pasajeros(self, pasajero):
         if self.disponibilidad():
-            self.ocupados.append(pasajero)
+            if pasajero in self.ocupados:
+                print(f'{pasajero} ya esta dentro!')
+            else:
+                self.ocupados.append(pasajero)
         else:
             print('Se llegó al tope de la capacidad!')
     
@@ -33,8 +36,10 @@ bus = Minibus()
 bus.capacidad(3) # En realidad es 50, pero es muucho para probar
 print(bus.asientos)
 
-while True: # Esto esta mal, pero es para probar el tope maximo
+while bus.disponibilidad() != 0:
     nombre = input('Como se llama el pasajero?: ')
     pasajero = Pasajero(nombre)
     bus.pasajeros(pasajero.nombre)
     print(bus.ocupados)
+
+print('Se llego al tope de la capacidad, nos vimos! 👋')
