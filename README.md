@@ -4,7 +4,7 @@
 ⏮ [Clase 02](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-02) | [Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | [Clase 04](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-04) ⏭
 
 ## Clase 03
-Teoría: [Diapositivas de Clase 03](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/clase-2-teoria.pdf)
+Teoría: [Diapositivas de Clase 03](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-03/clase-3-teoria.pdf)
 
 ## Ejercicios
 1. **Escribe un programa Python que imprima “Hola Mundo”, si a es mayor que b.**
