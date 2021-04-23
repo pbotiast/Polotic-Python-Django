@@ -8,13 +8,17 @@ Teoría: [Diapositivas de Clase 02](https://github.com/JaviCeRodriguez/Polotic-P
 
 ## Ejercicios
 1. **Escribe un programa Python que acepte el radio de un círculo del usuario y calcule el área.**
-[👉🏽 Ver ejercicio]()
+
+[👉🏽 Ver ejercicio 1](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/ejercicios/eje1.py)
 
 2. **Escribe un programa Python que acepte un número entero (n) y calcule el valor de n + nn + nnn**
-[👉🏽 Ver ejercicio]()
+
+[👉🏽 Ver ejercicio 2](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/ejercicios/eje2.py)
 
 3. **Escribe un programa en Python que acepte una cadena de caracteres y cuente el tamaño de la cadena y cuantas veces aparece la letra A (mayuscula y minúscula)**
-[👉🏽 Ver ejercicio]()
+
+[👉🏽 Ver ejercicio 3](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/ejercicios/eje3.py)
 
 4. **Escribe un programa en Python que muestre la hora actual con una suma de dos horas adicionales**
-[👉🏽 Ver ejercicio]()
+
+[👉🏽 Ver ejercicio 4](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/ejercicios/eje4.py)
