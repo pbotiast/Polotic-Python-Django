@@ -1,26 +1,20 @@
 # Polotic-Python-Django
 🐍 Repositorio para subir prácticas hechas en cada clase
 
-[Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | Clase 02 ⏭
+⏮ [Clase 01](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-01) | [Ver lista de clases (main)](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/main) | [Clase 03](https://github.com/JaviCeRodriguez/Polotic-Python-Django/tree/clase-03) ⏭
 
-## Clase 01
-Teoría: [Diapositivas de Clase 01]()
+## Clase 02
+Teoría: [Diapositivas de Clase 02](https://github.com/JaviCeRodriguez/Polotic-Python-Django/blob/clase-02/clase-2-teoria.pdf)
 
 ## Ejercicios
-1) **Comencemos instalando Python en nuestra computadora y probando mediante `python --version` si lo hemos hecho bien.**
-- Instalamos Python [página oficial](https://www.python.org/).
-- Abrimos la consola desde:
-    - Inicio > tipeamos cmd > Enter
-    - o Win + R > tipeamos cmd > Enter
-    - Tipeamos `python --version`
+1. **Escribe un programa Python que acepte el radio de un círculo del usuario y calcule el área.**
+[👉🏽 Ver ejercicio]()
 
+2. **Escribe un programa Python que acepte un número entero (n) y calcule el valor de n + nn + nnn**
+[👉🏽 Ver ejercicio]()
 
-2) **Intentemos instalar nuestras propias entidades virtuales y dialoguemos sobre como nos fue.**
-- Instalamos virtualenv desde consola: `pip install virtualenv`
-- Iniciamos proyecto nuevo (por lo general le ponemos de nombre "venv"): `virtualenv -p python3 venv
-- Activamos el entorno creado: `venv\Scripts\activate`
-- Instalamos paquetes como siempre: `pip install requests`
-- Ejecutamos el archivo principal: `python main.py`
-- Guardamos en un texto las dependencias: `python -m pip freeze > requirements.txt`
-- Si ya lo tenemos creado y no tenemos instalada alguna dependencia: `python -m pip install -r requirements.txt`
-- Desactivamos entorno: `deactivate`
+3. **Escribe un programa en Python que acepte una cadena de caracteres y cuente el tamaño de la cadena y cuantas veces aparece la letra A (mayuscula y minúscula)**
+[👉🏽 Ver ejercicio]()
+
+4. **Escribe un programa en Python que muestre la hora actual con una suma de dos horas adicionales**
+[👉🏽 Ver ejercicio]()
